@@ -14,7 +14,7 @@ st.write("Welcome to my financial dashboard.")
 
 st.header("Market Overview")
 st.metric(label="Bitcoin Price", value="$65,432", delta="+2.4%")
-st.metric(label="S&P 500", value="5,204", delta="-0.8%")
+st.metric(label="S&P 500", value="$5,204", delta="-0.8%")
 
 st.header("Portfolio Performance")
 
