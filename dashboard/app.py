@@ -31,7 +31,7 @@ selected_ticker = st.sidebar.selectbox(
 
 # --- Main Dashboard ---
 st.title("FinTech Dashboard")
-st.write("Live market data powered by Yahoo Finance.")
+st.write("Live market data powered by Yahoo Finance. | CI/CD Pipeline Active")
 
 # --- Market Overview ---
 st.header("Market Overview")
